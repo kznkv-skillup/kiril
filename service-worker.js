@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kznkv-skillup/kiril/precache-manifest.4e05e53231f70f8bb9559cf68a3faf9c.js"
+  "/kznkv-skillup/kiril/precache-manifest.dfbf54dcef47f164f7c0ba6701e542e5.js"
 );
 
 self.addEventListener('message', (event) => {
