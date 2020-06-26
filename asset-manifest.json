@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kznkv-skillup/kiril/static/css/main.3916f826.chunk.css",
+    "main.js": "/kznkv-skillup/kiril/static/js/main.71c8a993.chunk.js",
+    "main.js.map": "/kznkv-skillup/kiril/static/js/main.71c8a993.chunk.js.map",
+    "runtime-main.js": "/kznkv-skillup/kiril/static/js/runtime-main.df6f3bf2.js",
+    "runtime-main.js.map": "/kznkv-skillup/kiril/static/js/runtime-main.df6f3bf2.js.map",
+    "static/js/2.c3c57164.chunk.js": "/kznkv-skillup/kiril/static/js/2.c3c57164.chunk.js",
+    "static/js/2.c3c57164.chunk.js.map": "/kznkv-skillup/kiril/static/js/2.c3c57164.chunk.js.map",
+    "index.html": "/kznkv-skillup/kiril/index.html",
+    "precache-manifest.4e05e53231f70f8bb9559cf68a3faf9c.js": "/kznkv-skillup/kiril/precache-manifest.4e05e53231f70f8bb9559cf68a3faf9c.js",
+    "service-worker.js": "/kznkv-skillup/kiril/service-worker.js",
+    "static/css/main.3916f826.chunk.css.map": "/kznkv-skillup/kiril/static/css/main.3916f826.chunk.css.map",
+    "static/js/2.c3c57164.chunk.js.LICENSE.txt": "/kznkv-skillup/kiril/static/js/2.c3c57164.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df6f3bf2.js",
+    "static/js/2.c3c57164.chunk.js",
+    "static/css/main.3916f826.chunk.css",
+    "static/js/main.71c8a993.chunk.js"
+  ]
+}
